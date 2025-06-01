@@ -39,6 +39,10 @@ header {
   border-radius: 6px;
   color: white;
 }
+.search-form {
+  display: flex;
+  gap: 5px; /* Optional: Abstand zwischen Eingabe und Button */
+}
 
 main {
   padding: 30px 0;
